@@ -11,7 +11,7 @@
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <nav>
     <ul>
-      <li><a href="#top">home</a></li>
+      <li><a href="#">home</a></li>
       <li><a href="#news">news</a></li>
       <li><a href="#about">about_us</a></li>
     </ul>
