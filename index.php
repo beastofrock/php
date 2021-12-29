@@ -25,13 +25,15 @@
 
 
 <div class="content">
-  <h2 id=top> <p>welcome to paperboy inc.</b>
-  <br>we are the leading company for papers</br>
-  <br>we are the leading company for papers</br>
-  <br>we are the leading company for papers</br>
-  <br>we are the leading company for papers</br>
-  </h2>
-  </div>
+
+<h2 id=top> <p>welcome to paperboy inc.</h2>
+<pre>
+we are the leading company for papers
+we are the leading company for papers
+we are the leading company for papers
+we are the leading company for papers
+</pre>
+</div>
 
 
 <div class="footer">
