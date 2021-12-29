@@ -6,28 +6,25 @@
   </head>
 
 <body>
-<header>
-    <div class="container">
-      <h1 class="logo"></h1>
-      <nav>
-        <ul>
-          <li><a href="#">home</a></li>
-          <li><a href="#">products</a></li>
-          <li><a href="#">downloads</a></li>
-          <li><a href="#">contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-<footer>
-    <div class="containerfooter">
-      <h1 class="logo"></h1>
-      <nav>
-        <ul>
-          <li><a href="#">name|street|phone|fax|mail|</a></li>
-        </ul>
-      </nav>
-    </div>
+          <header>
+  <h1 class="logo">Logo</h1>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle">
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <label for="nav-toggle" class="nav-toggle-label">
+    <span></span>
+  </label>
+</header>
+
+<div class="content">
+  <h2>Your content would go here</h2>
+</div>
   
 </body>
 </html>
