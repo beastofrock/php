@@ -3,5 +3,5 @@
 <?php
 phpinfo();
 ?>
-</bod<>
+</body>
 </html>
