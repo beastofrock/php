@@ -41,7 +41,7 @@ last week we certified IEDE2022 Certifcation
 for conforming doings. last week we certified 
 IEDE2022 Certifcation for conforming doings.
 
-<img align=center src="cert.svg">
+<img width=100px align=center src="cert.svg">
 </pre>
 </h3>
   
