@@ -26,7 +26,7 @@
 
 <div class="content">
 
-<h2 id=top>welcome to paperboy inc.</h2>
+<p id=top>welcome to paperboy inc.</p>
 <pre>
 we are the leading company for papers
 we are the leading company for papers
@@ -43,8 +43,11 @@ IEDE2022 Certifcation for conforming doings.
 <img align=center src="cert.svg">
 
 </pre>
-  
-  
+<p id=about>about us</p>  
+<pre>
+we are in the market for 25 Years now and we know what we are doing
+trust us
+</pre>
 </div>
 
   
