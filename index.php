@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
   <head>
   <title>dynymic test</title>
   <link rel="stylesheet" href="styles.css">
   </head>
-
 <body>
 <header>
   <h1 class="logo"><img src="logo.svg"></h1>
@@ -21,13 +19,10 @@
   </label>
 </header>
 
-
-
-
 <div class="content">
 
-<h2 id=top>welcome to paperboy inc.
-<pre>
+<h2 id=top><pre>welcome to paperboy inc.
+
 we are the leading company for papers
 we are the leading company for papers
 we are the leading company for papers
