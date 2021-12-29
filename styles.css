@@ -21,7 +21,7 @@ body {
   background-color: #333;                                                                                                                                                                    
   background-blend-mode: multiply;                                                                                                                                                           
   background-size: cover; 
-/*  display: grid; */                                                                                                                                                                             
+  display: grid;                                                                                                                                                                              
   place-items: center;                                                                                                                                                                       
 }                                                                                                                                                                                            
                                                                                                                                                                                              
