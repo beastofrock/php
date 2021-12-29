@@ -1,3 +1,4 @@
+  GNU nano 5.8                         index.php                                    
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,7 +7,7 @@
   </head>
 
 <body>
-          <header>
+<header>
   <h1 class="logo">Logo</h1>
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <nav>
@@ -22,9 +23,20 @@
   </label>
 </header>
 
+
+
+
 <div class="content">
   <h2>Your content would go here</h2>
 </div>
-  
+
+
+<div class="footer">
+  <p>| paperboy inc. | easystreet 1 | info@paperboy.inc |<p>
+  <p>| call me: +49 6358 99650-12 |<p>
+</div>
+
+
 </body>
 </html>
+
