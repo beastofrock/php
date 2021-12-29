@@ -7,7 +7,7 @@
 
 <body>
 <header>
-  <h1 class="logo"><img src="logo.gif"></h1>
+  <h1 class="logo"><img src="logo.svg"></h1>
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <nav>
     <ul>
