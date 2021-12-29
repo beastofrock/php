@@ -1,5 +1,8 @@
 <html>
   <title>dynymic test</title>
+  <head>
+  <link rel="stylesheet" href="styles.css">
+  </head>
 <body>
 <header>
     <div class="container">
