@@ -7,13 +7,12 @@
 <header>
     <div class="container">
       <h1 class="logo"></h1>
-
       <nav>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Pricing</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#">home</a></li>
+          <li><a href="#">products</a></li>
+          <li><a href="#">downloads</a></li>
+          <li><a href="#">contact</a></li>
         </ul>
       </nav>
     </div>
