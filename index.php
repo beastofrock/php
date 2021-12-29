@@ -22,8 +22,8 @@
 <div class="content">
 
 <h2 id=top>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<pre>
+</br></br></br></br></br></br>
+
 welcome to paperboy inc.
 
 we are the leading company for papers
@@ -61,7 +61,7 @@ IEDE2022 Certifcation for conforming doings.
 </h3>
   
 <h4 id=about>
-</br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <pre>
 about us
 
