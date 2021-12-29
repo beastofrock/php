@@ -16,14 +16,20 @@ body {
         font-weight: 400;
 }
 
-.content {                                                                                                                                                                                   
+/*.content {                                                                                                                                                                                   
   height: 200vh;                                                                                                                                                                             
   background-color: #333;                                                                                                                                                                    
   background-blend-mode: multiply;                                                                                                                                                           
   background-size: cover; 
   display: grid;                                                                                                                                                                              
   place-items: center;                                                                                                                                                                       
-}                                                                                                                                                                                            
+} */
+
+.content {                                                                                                                                                                                   
+  background-color: #333;                                                                                                                                                                    
+  place-items: center;                                                                                                                                                                       
+  text-align: center;
+}  
                                                                                                                                                                                              
 /* navigation styles start here */                                                                                                                                                                                
                                                                                                                                                                                                                   
