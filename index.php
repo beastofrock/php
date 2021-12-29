@@ -38,7 +38,7 @@ we are the leading company for papers
 last week we certified IEDE2022 Certifcation
 for conforming doings. last week we certified 
 IEDE2022 Certifcation for conforming doings. 
-<img align=center src="logo.svg">
+<img align=center src="cert.svg">
 
 </pre>
   
