@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:300,600');
 
 :root {
-  --background: rgba(0, 214, 170, .85);
+  --background: rgba(15, 89, 123, .85);
+
 }
 
 *, *::before, *::after {
@@ -9,33 +10,33 @@
 }
 
 body {
-	margin: 0;
-	background: #222;
-	font-family: 'Work Sans', sans-serif;
-	font-weight: 400;
+        margin: 0;
+        background: #222;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 400;
 }
 
-.content {
-  height: 200vh;
-  background-image: url(//unsplash.it/1000/1000);
-  background-color: #333;
-  background-blend-mode: multiply;
-  background-size: cover;
-  display: grid;
-  place-items: center;
-}
-
-/* navigation styles start here */
-
-header {
-  background: var(--background);
-  text-align: center;
-  position: fixed;
-  z-index: 999;
-  width: 100%;
-}
-
-/* changed this from the tutorial video to
+.content {                                                                                                                                                                                   
+  height: 200vh;                                                                                                                                                                             
+  background-color: #333;                                                                                                                                                                    
+  background-blend-mode: multiply;                                                                                                                                                           
+  background-size: cover;                                                                                                                                                                    
+  display: grid;                                                                                                                                                                             
+  place-items: center;                                                                                                                                                                       
+}                                                                                                                                                                                            
+                                                                                                                                                                                             
+/* navigation styles start here */                                                                                                                                                                                
+                                                                                                                                                                                                                  
+header {                                                                                                                                                                                                          
+  background: var(--background);                                                                                                                                                                                  
+  text-align: center;                                                                                                                                                                                             
+  position: fixed;                                                                                                                                                                                                
+  z-index: 999;                                                                                                                                                                                                   
+  width: 100%;                                                                                                                                                                                                    
+}                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                             
+/* changed this from the tutorial video to                                                                                                                                                                                                   
    allow it to gain focus, making it tabbable */
 .nav-toggle {
   position: absolute !important;
@@ -192,4 +193,14 @@ nav a:hover {
   }
 }
 
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0f597b;
+  color: white;
+  text-align: center;
+}
 
