@@ -55,7 +55,7 @@ last week we certified IEDE2022 Certifcation
 for conforming doings. last week we certified 
 IEDE2022 Certifcation for conforming doings.
 
-<img width=400px align=center src="cert.svg">
+<img height=200px src="cert.svg">
 </pre>
 </h3>
   
@@ -63,6 +63,13 @@ IEDE2022 Certifcation for conforming doings.
 <pre>
 we are in the market for 25 Years now and we know what we are doing
 trust us
+
+yeah u really can trust us
+we will improve ur income
+
+we are in the market for 25 Years now and we know what we are doing
+trust us
+really!!!
 </pre>
 </h4>
 </div>
