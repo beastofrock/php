@@ -26,13 +26,14 @@
 
 <div class="content">
 
-<p id=top>welcome to paperboy inc.</p>
+<p id=top>welcome to paperboy inc.
 <pre>
 we are the leading company for papers
 we are the leading company for papers
 we are the leading company for papers
 we are the leading company for papers
 </pre>
+</p>
 <p id=news>certification in paper delivery</p>
 <pre>
 last week we certified IEDE2022 Certifcation
