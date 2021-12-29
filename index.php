@@ -1,4 +1,3 @@
-  GNU nano 5.8                         index.php                                    
 <!DOCTYPE html>
 <html>
   <head>
