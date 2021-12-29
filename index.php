@@ -20,7 +20,7 @@
     </div>
   </header>
 <footer>
-    <div class="container">
+    <div class="containerfooter">
       <h1 class="logo"></h1>
       <nav>
         <ul>
