@@ -35,21 +35,22 @@ we are the leading company for papers
 </pre>
 </h2>
 
-<p id=news>certification in paper delivery</p>
+<h3 id=news>certification in paper delivery
 <pre>
 last week we certified IEDE2022 Certifcation
 for conforming doings. last week we certified 
 IEDE2022 Certifcation for conforming doings.
 
-
 <img align=center src="cert.svg">
-
 </pre>
-<p id=about>about us</p>  
+</h3>
+  
+<h4 id=about>about us  
 <pre>
 we are in the market for 25 Years now and we know what we are doing
 trust us
 </pre>
+</h4>
 </div>
 
   
