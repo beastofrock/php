@@ -33,11 +33,13 @@ we are the leading company for papers
 we are the leading company for papers
 we are the leading company for papers
 </pre>
-<h3 id=news>certification in paper delivery</h3>
+<p id=news>certification in paper delivery</p>
 <pre>
 last week we certified IEDE2022 Certifcation
 for conforming doings. last week we certified 
-IEDE2022 Certifcation for conforming doings. 
+IEDE2022 Certifcation for conforming doings.
+
+
 <img align=center src="cert.svg">
 
 </pre>
