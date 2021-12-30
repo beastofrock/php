@@ -18,7 +18,7 @@ body {
         overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
-/*.content {
+.content {
   height: 200vh;
   background-color: #333;
   background-blend-mode: multiply;
@@ -26,13 +26,13 @@ body {
   display: grid;
   place-items: center; 
   text-align: center;
-} */
+}
 
-.content {
+/*.content {
     display: grid;
     text-align: center;
     place-items: center;
-}  
+} */ 
                                                                                                                                                                                              
 /* navigation styles start here */                                                                                                                                                                                
                                                                                                                                                                                                                   
