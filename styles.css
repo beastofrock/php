@@ -31,6 +31,8 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;  
+    width: 300px;
+    height: 300px;
 }  
                                                                                                                                                                                              
 /* navigation styles start here */                                                                                                                                                                                
