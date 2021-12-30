@@ -16,19 +16,21 @@ body {
         font-weight: 400;
 }
 
-/*.content {                                                                                                                                                                                   
-  height: 200vh;                                                                                                                                                                             
-  background-color: #333;                                                                                                                                                                    
-  background-blend-mode: multiply;                                                                                                                                                           
-  background-size: cover; 
-  display: grid;                                                                                                                                                                              
-  place-items: center;                                                                                                                                                                       
+/*.content {
+  height: 200vh;
+  background-color: #333;
+  background-blend-mode: multiply;
+  background-size: cover;
+  display: grid;
+  place-items: center; 
+  text-align: center;
 } */
 
 .content {                                                                                                                                                                                   
   background-color: #333;                                                                                                                                                                    
-  place-items: center;                                                                                                                                                                       
-  text-align: center;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;  
 }  
                                                                                                                                                                                              
 /* navigation styles start here */                                                                                                                                                                                
