@@ -4,8 +4,7 @@
    <meta charset="UTF-8" />
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <link rel="stylesheet" href="style.css" />
-   <title>Document</title>
+   <title>www.paperboyinc.com</title>
  </head>
  <body>
    <nav class="navbar">
@@ -19,8 +18,7 @@
        <!-- NAVIGATION MENUS -->
        <div class="menu">
          <li><a href="/">Home</a></li>
-         <li><a href="/">About</a></li>
-         <li class="services">
+           <li class="news">
            <a href="/">Services</a>
            <!-- DROPDOWN MENU -->
            <ul class="dropdown">
@@ -31,15 +29,31 @@
              <li><a href="/">Dropdown 4</a></li>
            </ul>
          </li>
-         <li><a href="/">Pricing</a></li>
-         <li><a href="/">Contact</a></li>
+         <li><a href="/">about us</a></li>
        </div>
      </ul>
    </nav>
+  
+
  </body>
+<div class="footer">
+  <p>| paperboy inc. | easystreet 1 | info@paperboy.inc |<p>
+  <p>| call me: +49 6358 99650-12 |<p>
+</div>
 </html>
 
 <style>
+ 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0f597b;
+  color: white;
+  text-align: center;
+}
+
 /* UTILITIES */
 * {
  margin: 0;
