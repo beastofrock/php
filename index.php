@@ -1,8 +1,9 @@
 <html>
-  <head>
-  <title>dynymic test</title>
-  <link rel="stylesheet" href="styles.css">
-  </head>
+<head>
+<title>dynymic test</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
 <body>
 <header>
   <h1 class="logo"><img src="logo.svg"></h1>
@@ -20,7 +21,6 @@
 </header>
 
 <div class="content">
-
 <h2 id=top>
 </br></br></br></br></br></br>
 <pre>
@@ -62,7 +62,6 @@ IEDE2022 Certifcation for conforming doings.
   
 <h4 id=about>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <pre>
 about us
 
@@ -77,7 +76,7 @@ trust us
 really!!!
 
 </pre>
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 </h4>
 </div>
 
