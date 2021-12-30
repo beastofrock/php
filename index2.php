@@ -19,7 +19,7 @@
        <div class="menu">
          <li><a href="/">Home</a></li>
            <li class="news">
-           <a href="/">Services</a>
+           <a href="/">news</a>
            <!-- DROPDOWN MENU -->
            <ul class="dropdown">
              <li><a href="/">Dropdown 1 </a></li>
@@ -102,7 +102,7 @@ li {
  padding: 5px 14px;
 }
 /* DROPDOWN MENU */
-.services {
+.news {
  position: relative; 
 }
 .dropdown {
