@@ -9,7 +9,7 @@
  <body>
    <nav class="navbar">
      <!-- LOGO -->
-     <div class="logo">MUO</div>
+     <div class="logo"><img src="logo.svg"></div>
      <!-- NAVIGATION MENU -->
      <ul class="nav-links">
        <!-- USING CHECKBOX HACK -->
