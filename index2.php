@@ -144,7 +144,7 @@ input[type=checkbox]{
 .menu { 
  display:none;
  position: absolute;
- background-color:teal;
+ background-color: #0f597b;
  right: 0;
  left: 0;
  text-align: center;
