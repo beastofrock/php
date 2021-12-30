@@ -93,7 +93,7 @@ li {
  font-size: 18px;
 }
 .menu li:hover {
- background-color: #4c9e9e;
+ background-color: #0f597b;
  border-radius: 5px;
  transition: 0.3s ease;
 }
@@ -121,7 +121,7 @@ li {
  text-align: center;
 }
 .dropdown li:hover {
- background-color: #4c9e9e;
+ background-color: #0f597b;
 }
 .services:hover .dropdown {
  display: block;
@@ -151,7 +151,7 @@ input[type=checkbox]{
 }
 .menu li:hover {
  display: inline-block;
- background-color:#4c9e9e;
+ background-color:#0f597b;
  transition: 0.3s ease;
 }
 .menu li + li {
@@ -169,7 +169,7 @@ input[type=checkbox]:checked ~ .menu{
  transform: translateX(35%);
 }
 .dropdown li:hover {
- background-color: #4c9e9e;
+ background-color: #0f597b;
 }
 }
 
