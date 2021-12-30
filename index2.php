@@ -62,6 +62,7 @@
 }
 body {
  font-family: cursive;
+ background-color: #4a5157;
 }
 a {
  text-decoration: none;
