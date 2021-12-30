@@ -76,7 +76,7 @@ li {
  align-items: center;
  justify-content: space-between;
  padding: 20px;
- background-color: teal;
+ background-color: #0f597b;
  color: #fff;
 }
 .nav-links a {
